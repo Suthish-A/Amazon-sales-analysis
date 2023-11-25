@@ -38,4 +38,8 @@
 
 ![image](https://github.com/Suthish-A/Amazon-sales-analysis/assets/133667688/6557025a-43c6-4400-a3ab-0adf12e775eb)
 
+### projec outcome:
+1)Keep an eye on competitors' pricing and promotions.
+2)Differentiate your products based on customer needs
+
 
