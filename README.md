@@ -31,7 +31,7 @@
 
 ### URL Navigation:
 14. Insert the Amazon logo.
-15. Enable an action to open the Amazon homepage when the logo is clicked.
+15. Enable an action to open the Amazon homepage when the logo is clicked.https://www.amazon.in/?&ext_vrnc=hi&tag=googhydrabk1-21&ref=pd_sl_7hz2t19t5c_e&adgrpid=58355126069&hvpone=&hvptwo=&hvadid=610644601173&hvpos=&hvnetw=g&hvrand=834567751621768
 
 ### Slicer Reset:
 16. Add a button to reset all slicers.
