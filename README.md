@@ -1,8 +1,8 @@
 # Amazon Sales Analysis
 
-# Flipkart-Sales-Analysis
+
 ## Project Overview:
-Analyzing sales data from Amazon, one of India's leading e-commerce platforms, can provide valuable insights into consumer behavior, popular product categories, seasonal trends, and more. Here's an overview of how you might approach a Amazon sales analysis project:
+Analyzing sales data from Amazon, one of India's leading e-commerce platforms, can provide valuable insights into consumer behavior, popular product categories, seasonal trends, and more. Here's an overview of how you might approach a Amazon sales analysis project
 
 ### Data Preparation and Analysis:
 - Load the "Amazon Sales" dataset into PowerBI.
